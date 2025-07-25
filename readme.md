@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Reinforcement Learning in a Gridworld Environment
 
 This repository contains a Python implementation of several reinforcement learning algorithms applied to a classic 5×5 gridworld problem. The project demonstrates and compares model-based (Dynamic Programming) and model-free (Monte Carlo) methods for finding optimal policies.
